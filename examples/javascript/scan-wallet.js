@@ -5,7 +5,7 @@
  * into your Node.js or browser-based application.
  */
 
-const SOLENCE_API_URL = 'https://solence.ai/api';
+const SOLENCE_API_URL = 'https://solenceai.com/api';
 
 /**
  * Scan a Solana wallet
