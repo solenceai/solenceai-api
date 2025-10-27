@@ -44,7 +44,7 @@ For developers building applications.
 - MVP applications
 
 **How to get started:**
-1. Sign up at [solence.ai](https://solence.ai)
+1. Sign up at [solenceai.com](https://solenceai.com)
 2. Generate an API key in your dashboard
 3. Include key in request headers: `X-API-Key: your_key_here`
 
@@ -209,7 +209,7 @@ const results = await batchScanWallets([
 For real-time updates, use WebSocket connections instead of polling:
 
 ```typescript
-const ws = new WebSocket('wss://solence.ai/ws');
+const ws = new WebSocket('wss://solenceai.com/ws');
 
 ws.on('scan.completed', (data) => {
   console.log('Scan completed:', data);
@@ -224,14 +224,14 @@ No action needed - just generate an API key in your dashboard.
 
 ### From Developer to Pro
 
-1. Visit [solence.ai/pricing](https://solence.ai/pricing)
+1. Visit [solenceai.com/pricing](https://solenceai.com/pricing)
 2. Select Pro tier
 3. Enter payment details
 4. Upgrade is instant
 
 ### From Pro to Enterprise
 
-1. Contact sales@solence.ai
+1. Contact sales@solenceai.com
 2. Schedule a call to discuss requirements
 3. Custom contract and SLA
 4. Dedicated onboarding
@@ -266,6 +266,5 @@ A: Contact us to discuss custom infrastructure solutions, including on-premise d
 
 Questions about rate limits?
 
-- **Email**: support@solence.ai
-- **Discord**: [Join our community](https://discord.gg/solence)
-- **Enterprise**: sales@solence.ai
+- **Email**: support@solenceai.com
+- **Enterprise**: sales@solenceai.com
