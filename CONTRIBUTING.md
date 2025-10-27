@@ -163,9 +163,8 @@ describe('scanWallet', () => {
 
 ## 📧 Contact
 
-* **Discord**: [Join our community](https://discord.gg/solence)
 * **Twitter**: [@SolenceAi](https://twitter.com/SolenceAi)
-* **Email**: dev@solence.ai
+* **Email**: dev@solenceai.com
 
 ## 🙏 Recognition
 
