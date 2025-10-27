@@ -70,7 +70,7 @@ class SolenceClient {
   private timeout: number;
 
   constructor(config: SolenceConfig = {}) {
-    this.apiUrl = config.apiUrl || 'https://solence.ai/api';
+    this.apiUrl = config.apiUrl || 'https://solenceai.com/api';
     this.apiKey = config.apiKey;
     this.timeout = config.timeout || 30000;
   }
