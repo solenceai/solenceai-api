@@ -26,7 +26,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - AI-powered security insights via OpenAI
 - Rate limiting (10 requests/hour for free tier)
 - Comprehensive API documentation
-- Interactive playground at solence.ai/playground
+- Interactive playground at solenceai.com/playground
 - Support for Solana mainnet and devnet
 - Wallet details including balance, tokens, NFTs, and transaction count
 - On-chain Safety Badge as SPL token
@@ -121,9 +121,9 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute to this 
 
 ## Links
 
-- [Documentation](https://solence.ai/docs)
-- [API Playground](https://solence.ai/playground)
-- [Status Page](https://solence.ai/status)
+- [Documentation](https://solenceai.com/docs)
+- [API Playground](https://solenceai.com/playground)
+- [Status Page](https://solenceai.com/status)
 - [GitHub Issues](https://github.com/solenceai/solence-api/issues)
 
 [Unreleased]: https://github.com/solenceai/solence-api/compare/v1.0.0...HEAD
