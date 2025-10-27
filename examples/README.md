@@ -79,7 +79,7 @@ const client = new SolenceClient({ apiKey: 'your_api_key' });
 client = SolenceClient(api_key='your_api_key')
 ```
 
-Get your API key at [solence.ai/dashboard](https://solence.ai/dashboard)
+Get your API key at [solenceai.com/dashboard](https://solenceai.com/dashboard)
 
 ## 📚 Features Demonstrated
 
@@ -113,8 +113,8 @@ All examples show:
 
 - [Full API Documentation](../docs/API.md)
 - [Rate Limits](../docs/RATE_LIMITS.md)
-- [Interactive Playground](https://solence.ai/playground)
-- [API Reference](https://solence.ai/docs)
+- [Interactive Playground](https://solenceai.com/playground)
+- [API Reference](https://solenceai.com/docs)
 
 ## 🤝 Contributing
 
@@ -130,5 +130,5 @@ See [CONTRIBUTING.md](../CONTRIBUTING.md) for details.
 ## 📧 Support
 
 - **Discord**: [Join our community](https://discord.gg/solence)
-- **Email**: dev@solence.ai
+- **Email**: dev@solenceai.com
 - **Issues**: [GitHub Issues](https://github.com/solenceai/solence-api/issues)
