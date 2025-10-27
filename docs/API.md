@@ -5,7 +5,7 @@ Complete documentation for the Solence API.
 ## Base URL
 
 ```
-https://solence.ai/api
+https://solenceai.com/api
 ```
 
 ## Authentication
@@ -107,7 +107,7 @@ Content-Type: application/json
 <summary>cURL</summary>
 
 ```bash
-curl -X POST https://solence.ai/api/scan \
+curl -X POST https://solenceai.com/api/scan \
   -H "Content-Type: application/json" \
   -d '{
     "wallet": "7xKXtg2CW87d97TXJSDpbD5jBkheTqA83TZRuJosgAsU"
@@ -119,7 +119,7 @@ curl -X POST https://solence.ai/api/scan \
 <summary>JavaScript/TypeScript</summary>
 
 ```typescript
-const response = await fetch('https://solence.ai/api/scan', {
+const response = await fetch('https://solenceai.com/api/scan', {
   method: 'POST',
   headers: {
     'Content-Type': 'application/json'
@@ -141,7 +141,7 @@ console.log(`Score: ${data.score}, Risk: ${data.riskLevel}`);
 import requests
 
 response = requests.post(
-    'https://solence.ai/api/scan',
+    'https://solenceai.com/api/scan',
     json={'wallet': '7xKXtg2CW87d97TXJSDpbD5jBkheTqA83TZRuJosgAsU'}
 )
 
@@ -351,7 +351,7 @@ Register webhook endpoints to receive real-time notifications:
 
 ## Support
 
-- **Documentation**: https://solence.ai/docs
-- **Playground**: https://solence.ai/playground
+- **Documentation**: https://solenceai.com/docs
+- **Playground**: https://solenceai.com/playground
 - **Discord**: https://discord.gg/solence
-- **Email**: api@solence.ai
+- **Email**: api@solenceai.com
