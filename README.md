@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue.svg)](https://www.typescriptlang.org/)
 [![Solana](https://img.shields.io/badge/Solana-Mainnet-purple.svg)](https://solana.com/)
-[![API Status](https://img.shields.io/badge/API-Live-success.svg)](https://solence.ai/status)
+[![API Status](https://img.shields.io/badge/API-Live-success.svg)](https://solenceai.com/status)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 > AI-powered security scanner for Solana wallets with deterministic risk scoring.
@@ -48,7 +48,7 @@ curl -X POST https://solenceai.com/api/scan \
 - **[Authentication](docs/AUTH.md)** - API key setup (optional)
 - **[Rate Limits](docs/RATE_LIMITS.md)** - Usage tiers and limits
 - **[Code Examples](examples/)** - Integration examples in multiple languages
-- **[Interactive Playground](https://solence.ai/playground)** - Test the API in your browser
+- **[Interactive Playground](https://solenceai.com/playground)** - Test the API in your browser
 
 ## ✨ Features
 
@@ -102,7 +102,7 @@ print(f"Score: {result.score}, Risk: {result.risk_level}")
 ### cURL
 
 ```bash
-curl -X POST https://solence.ai/api/scan \
+curl -X POST https://solenceai.com/api/scan \
   -H "Content-Type: application/json" \
   -d '{"wallet": "YOUR_WALLET_ADDRESS"}'
 ```
