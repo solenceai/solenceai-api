@@ -136,9 +136,8 @@ Scores range from 0-100:
 
 | Tier | Requests/Hour | Authentication | Cost |
 |------|---------------|----------------|------|
-| **Free** | 10 | None required | $0 |
-| **Developer** | 50 | API Key | $0 |
-| **Pro** | 500 | API Key | $49/month |
+| **Free** | 100 | None required |
+| **Holder** | Unlimited | None required|
 | **Enterprise** | Custom | API Key + OAuth | Contact us |
 
 ## 🛠️ Development
@@ -218,10 +217,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Links
 
-- **Website**: [solence.ai](https://solence.ai)
-- **Playground**: [solence.ai/playground](https://solence.ai/playground)
-- **Documentation**: [docs.solence.ai](https://solence.ai/docs)
-- **Status Page**: [status.solence.ai](https://solence.ai/status)
+- **Website**: [solenceai.com](https://solenceai.com)
+- **Playground**: [solenceai.com/playground](https://solenceai.com/playground)
+- **Documentation**: [solenceai.com/docs](https://solenceai.com/docs)
+- **Status Page**: [solenceai.com/status](https://solenceai.com/status)
 - **Twitter**: [@SolenceAi](https://twitter.com/SolenceAi)
 
 ## 🙏 Acknowledgments
@@ -232,8 +231,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Support
 
-- **Email**: support@solence.ai
-- **Discord**: [Join our community](https://discord.gg/solence)
+- **Email**: support@solenceai.com
 - **Issues**: [GitHub Issues](https://github.com/solenceai/solence-api/issues)
 
 ---
