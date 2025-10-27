@@ -6,7 +6,7 @@ We take the security of Solence API seriously. If you believe you have found a s
 
 **Please do not report security vulnerabilities through public GitHub issues.**
 
-Instead, please report them via email to **security@solence.ai**
+Instead, please report them via email to **security@solenceai.com**
 
 You should receive a response within 48 hours. If for some reason you do not, please follow up via email to ensure we received your original message.
 
@@ -119,8 +119,8 @@ Valid security reports may be eligible for:
 
 ## 📞 Contact
 
-* **Security Email**: security@solence.ai
-* **General Support**: support@solence.ai
+* **Security Email**: security@solenceai.com
+* **General Support**: support@solenceai.com
 * **PGP Key**: Available upon request
 
 ## 🔗 Security Resources
