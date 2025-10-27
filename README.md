@@ -15,7 +15,7 @@ Solence API provides a simple REST interface for analyzing Solana wallet securit
 ### Make your first API call
 
 ```bash
-curl -X POST https://solence.ai/api/scan \
+curl -X POST https://solenceai.com/api/scan \
   -H "Content-Type: application/json" \
   -d '{"wallet": "7xKXtg2CW87d97TXJSDpbD5jBkheTqA83TZRuJosgAsU"}'
 ```
